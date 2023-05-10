@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I share... a lot!
 
 ---
-## **Top technologies**
+## **Top Technologies**
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572b6)](#) 
@@ -17,9 +17,7 @@
 
 ---
 
-### Certificate
-
-**Google**
+## **Certificate Google**
 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FCDWGBZ67XPW)
 - [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/Z8G3K5NSJ2GC)
 
