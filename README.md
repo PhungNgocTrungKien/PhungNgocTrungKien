@@ -1,5 +1,3 @@
-
-## **Who is this person ...**
 ### Hi fellows 👋
 
 - 🔭 I’m currently a student of [Binh Duong University - Ca Mau]
@@ -19,7 +17,7 @@
 
 ---
 
-### Certificate**
+### Certificate
 
 2. **Google**
 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FCDWGBZ67XPW)
