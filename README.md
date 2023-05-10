@@ -19,7 +19,7 @@
 
 ### Certificate
 
-2. **Google**
+**Google**
 - [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FCDWGBZ67XPW)
 - [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/Z8G3K5NSJ2GC)
 
