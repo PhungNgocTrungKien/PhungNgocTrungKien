@@ -22,12 +22,13 @@
 ### Certificate**
 
 2. **Google**
-- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/M8NE5BYKXCJW)
-- [Foundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/verify/2R3CYAA6JCCH)
-- [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/ZH4H5AP6G9E8)
+- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FCDWGBZ67XPW)
+- [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/Z8G3K5NSJ2GC)
 
 ---
 
 ## **First Meet Through**
 [![Mail Badge](https://img.shields.io/badge/-PhungNgocTrungKien-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:phungngoctrungkien.dev@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@_aww.kwai_02-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_aww.kwai_02)  [![Faebook Badge](https://img.shields.io/badge/-PhungNgocTrungKien-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](facebook.com/profile.php?id=100089439924551)
 
+[Binh Duong University - Ca Mau]: https://camau.bdu.edu.vn/
+[Facebook]: https://www.facebook.com/profile.php?id=100089439924551
