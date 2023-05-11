@@ -17,12 +17,6 @@
 
 ---
 
-### **Certificate Google**
-- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/FCDWGBZ67XPW)
-- [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/Z8G3K5NSJ2GC)
-- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/MFLFY3NZEL6K)
-- [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/595DCENCW9BW)
----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhungNgocTrungKien&show_icons=true&theme=transparent&hide=contribs&count_private=true)
 
 ### **First Meet Through**
